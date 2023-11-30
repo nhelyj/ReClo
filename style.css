@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+h1{
+    padding: 20%;
+    font-family: 'Roboto', sans-serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&family=Secular+One&display=swap');
